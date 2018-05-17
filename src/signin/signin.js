@@ -1,1 +1,3 @@
-Hi
+(function(){
+    console .log('Signin');
+})();
